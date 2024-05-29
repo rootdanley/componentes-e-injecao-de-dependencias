@@ -46,3 +46,8 @@ SAÍDA
 
 Pedido código 1309
 Valor total: R$ 115.90
+
+![image](https://github.com/rootdanley/componentes-e-injecao-de-dependencias/assets/85087531/6f44efd9-7453-4136-bfe2-5d1a81006226)
+
+
+![image](https://github.com/rootdanley/componentes-e-injecao-de-dependencias/assets/85087531/0dc81db6-3229-43db-8564-eb724c6e8709)
